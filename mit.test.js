@@ -23,6 +23,6 @@ describe('MIT', () => {
     });
 
     test('Motto', () => {
-        expect(mit.motto).toMatch('Mens');
+        expect(mit.motto).toMatch('Mens Et Manus');
     });
 });
